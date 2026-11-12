@@ -1,0 +1,12 @@
+
+comment_id,comment_text,assistant,sentiment
+1,"ChatGPT is amazing for coding",ChatGPT,Positive
+2,"Gemini gives incorrect answers",Gemini,Negative
+3,"I started using Claude yesterday",Claude,Neutral
+4,"ChatGPT is useful but sometimes inaccurate",ChatGPT,Mixed
+5,"Does Claude support PDF files?",Claude,Neutral
+6,"I love using Gemini for research",Gemini,Positive
+7,"ChatGPT is too slow sometimes",ChatGPT,Negative
+8,"Claude is powerful but expensive",Claude,Mixed
+9,"I downloaded ChatGPT yesterday",ChatGPT,Neutral
+10,"Gemini is terrible at answering questions",Gemini,Negative

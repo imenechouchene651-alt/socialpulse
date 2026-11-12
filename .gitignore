@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Données brutes de Student 1
+data/raw/
+data/interim/
+
+# Fichiers régénérables
+models/*.joblib
+reports/*.png
+
+# Système
+.DS_Store
+Thumbs.db
